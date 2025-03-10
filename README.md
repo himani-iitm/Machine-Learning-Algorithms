@@ -1,4 +1,4 @@
-# Machine Learning Algorithms
+# Machine Learning Algorithms - PHY905
 
 This repository contains implementations of various machine learning algorithms, demonstrated through Jupyter Notebooks. These algorithms cover a range of topics in machine learning, including clustering, regression, and regularization techniques.
 
